@@ -1,6 +1,6 @@
 # Vue-Calendar-Firestore 📅 
 
-Vue based Calendar Application using Vuetify as the material design library and Firebase for basic CRUD applications.
+Vue based Calendar Application using Vuetify as the material design library and Firebase for basic CRUD commands to maintain and schedule events
 
 ## Features
 
@@ -8,6 +8,12 @@ Vue based Calendar Application using Vuetify as the material design library and 
 * Used Vuetify's calendar and dialog components for basic UI structure
 * Firebase with Cloud Firestore for data storage and retrieval
 * Create, Delete and View events in real time
+
+## Todo
+
+* Add a dark mode toggle switch - using Tailwind CSS.
+* Add Time as a parameter while creating events.
+* Add Google Calendar API to schedule events across Google accounts.
 
 ## Sample snippets
 
