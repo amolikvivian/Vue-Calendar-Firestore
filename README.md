@@ -11,11 +11,11 @@ Vue based Calendar Application using Vuetify as the material design library and 
 
 ## Sample snippets
 
-![Home](/public/images/home.png)
+![Home](/public/home.png)
 
-![Event Display](/public/images/home-event.png)
+![Event Display](/public/home-event.png)
 
-![Event Card](/public/images/event-card.png)
+![Event Card](/public/event-card.png)
 
 
 ### Project setup
