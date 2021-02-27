@@ -2,7 +2,23 @@
 
 Vue based Calendar Application using Vuetify as the material design library and Firebase for basic CRUD applications.
 
-## Project setup
+## Features
+
+* Vue 2 
+* Used Vuetify's calendar and dialog components for basic UI structure
+* Firebase with Cloud Firestore for data storage and retrieval
+* Create, Delete and View events in real time
+
+## Sample snippets
+
+![Home](/public/images/home.png)
+
+![Event Display](/public/images/home-event.png)
+
+![Event Card](/public/images/event-card.png)
+
+
+### Project setup
 ```
 npm install
 ```
